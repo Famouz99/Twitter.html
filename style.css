@@ -1,0 +1,261 @@
+ body{
+    background: linear-gradient(300deg, #369cbe, #d6a9b0, #bbeee1);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+ }
+.Left-bar{
+    padding-top: 10px;
+    margin-left: 100px;
+    background-colorrgb(177, 241, 241);
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 250px;
+}
+.start{
+    display: flex;
+}
+.bird{
+    margin-bottom: 20px;
+    height: 28px;
+}
+.bird:hover{
+    height: 35px;
+}
+.hove:hover{
+    color: rgb(101, 207, 101);
+    text-decoration: underline;
+    font-size: 25px;
+}
+.imagess{
+    height: 22px;
+    margin-bottom: 30px;
+}
+span{
+    margin-left: 20px;
+    font-size: 19px;
+    font-family: sans-serif;
+}
+.image{
+    display: flex;
+    text-align: center;
+}
+.tweeeet{
+    background-color: rgb(13, 142, 218);
+    color: white;
+    width: 250px;
+    height: 55px;
+    font-size: 20px;
+    border-radius: 125px;
+    border: none;
+    font-family: Arial;
+    font-weight: bolder;
+    margin-top: 10px;
+}
+.tweeeet:hover{
+    background-color: black ;
+}
+.bottomm{
+    display: flex;
+    margin-top: 70px;
+    align-items: center
+    width: 300px;
+    padding: 20px;
+    height: 5px;
+    border-radius: 100px;
+    padding-bottom: 40px;
+}
+.bottomm:hover{
+    background-color: rgb(194, 185, 185);
+}
+.chinwe, .chinwes{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    margin-right: 18px;
+}
+.dotts{
+    padding-top: 5px;
+    padding-left: 11px;
+    height: 15px;
+}
+.ikemm{
+    font-weight: l;
+}
+.foryou{
+    margin-left: 350px;
+}
+.follow{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+}
+.follow:hover{
+    text-decoration: undeine;
+}
+.wings:hover{
+    text-decoration: underline;
+    color: rgb(44, 45, 128);
+}
+.yours:hover{
+    text-decoration: underline;
+    color: rgb(44, 45, 128);
+}
+.container{
+    width: 70%;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.containers{
+    background-color rgb(224, 100, 100);
+}
+.home-ee{
+    border-width: 0.05px;
+    border-radius: 5px;
+    font-family: Arial;
+    font-size: 18px;
+    padding: 10px;
+    vertical-align: top;
+    border: solid;
+    border-color: rgb(228, 236, 236);
+    margin-bottom: 2px;
+}
+.everyone{
+    margin-top: 0px;
+    display: flex;
+    background-color: r(144, 231, 202);
+    vertical-align: top;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border: solid;
+    border-color: rgb(228, 236, 236);
+    margin-bottom: 2px;
+    font-family: Arial;
+    font-size: 18px;
+}
+.earth{
+    padding-bottom: 25px;
+}
+.earth:hover{
+    color: blue;
+    background-color: aqua;
+    width: 200px;
+    height: 8px;
+    text-align: center;
+    border-radius: 100px;
+    padding-top: 5px;
+}
+.one{
+   background-color:;
+   width: 90px;
+   font-size: 15px;
+   border-color: rgb(209, 195, 195);
+   border-radius: 30px;
+   padding-left: 8px;
+   border: solid;
+   border-width: 1px;
+}
+.one:hover{
+    background-color: rgb(114, 146, 146);
+    color: white;
+    border: none;
+}
+.caret{
+    text-align: center;
+}
+.three{
+    font-size: 20px;
+    font-weight: 5px;
+}
+.four{
+    margin-right: 15px;
+    height: 18px;
+}
+.davv{
+    display: flex;
+    border: solid;
+    border-color: rgb(233, 218, 218);
+    margin-bottom: 2px;
+    font-family: Arial;
+    font-size: 18px;
+}
+.davwork{
+    width: 250px;
+    height: 250px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+}
+.five{
+    margin-right: 300px;
+}
+.tweetsix{
+    right: 0;
+    left: 0;
+    color: white;
+    background-color: rgb(13, 142, 218);
+    height: 35px;
+    width: 70px;
+    border-radius: 20px;
+    border: none;
+    font-family: Arial;
+    font-weight: bolder;
+}
+.show{
+    color: rgb(80, 134, 235);
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial;
+    border: solid;
+    height: 30px;
+    justify-content: center;
+    padding-top: 18px;
+    border-color: rgb(228, 225, 225);
+    margin-top: 0;
+    margin-bottom: 2px;
+}
+.right-bar{
+    font-family: Arial;
+    line-height: 20px;
+}
+.right-contain{
+    margin-top: 70px;
+}
+.holder{
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(224, 233, 236);
+    color: grey;
+    border: none;
+    width: 200px;
+    padding-left: 10px;
+    font-size: 15px;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    
+}
+.right-two{
+    padding-top: 0px;
+}
+.right-three{
+    margin-bottom: 1px;
+    margin-top: 10px;
+}
+.right-four, .trending{
+    margin-top: 1px;
+    padding-bottom: 8px;
+}
+.extra{
+    display: flex;
+    border: solid;
+    margin-top: 0;
+    border-color: rgb(233, 227, 227);
+    border-radius: 1px;
+}
+.chinwes{
+    margin-top: 20px;
+}
